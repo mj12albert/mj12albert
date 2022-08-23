@@ -3,10 +3,9 @@ I’m Albert, a web developer & designer from all over but currently based in Ho
 
 ### Lately I’ve been tinkering with...
 - ⚛ React.js, Next.js, RedwoodJS 
-- 🎨 theme-ui, chakra-ui, mui, JoyUI, stitches, ReachUI
+- 🎨 theme-ui, chakra-ui, mui, JoyUI, stitches
 - 🙃 a Figma + CodeSandbox + Jira workflow
 - ⚗️ svelte + sveltekit
-- 👀 astro.build
 - 🥲 Docker + AWS (halp me it’s so hard)
 
 ### Contact
