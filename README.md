@@ -11,6 +11,7 @@ I’m Albert, a web developer & designer from all over but currently based in Ho
 ### Contact
 - 🌐 [albertyu.co](https://albertyu.co/)
 - 📬 inbox@albertyu.co
+- 🔵 [LinkedIn](https://www.linkedin.com/in/mj12albert/)
 - 💬 `@mj12albert` in [design.systems/slack](http://design.systems/slack/)
 
 
