@@ -1,5 +1,5 @@
 ### Hello 👋
-I’m Albert, a web developer & designer from all over but currently based in Hong Kong. I work on design systems at [Rapyd](https://www.rapyd.net), which [acquired](https://www.rapyd.net/company/news/press-releases/rapyd-completes-acquisition-of-neat/) my company [Neat](https://www.neatcommerce.com) a little while ago.
+I’m Albert, a web developer & designer from all over but currently based in Hong Kong. I’m on the core team at [MUI](https://github.com/mui) working on `material-ui` and more!
 
 ### Lately I’ve been tinkering with...
 - ⚛ React.js, Next.js, RedwoodJS 
@@ -11,8 +11,7 @@ I’m Albert, a web developer & designer from all over but currently based in Ho
 ### Contact
 - 🌐 [albertyu.co](https://albertyu.co/)
 - 📬 inbox@albertyu.co
-- Ⓜ️ [@mj12albert@hachyderm.io](https://hachyderm.io/@mj12albert)
-- 💬 `@mj12albert` in [design.systems/slack](http://design.systems/slack/)
+- 🐘 [@mj12albert@hachyderm.io](https://hachyderm.io/@mj12albert)
 - 🔵 [LinkedIn](https://www.linkedin.com/in/mj12albert/)
 
 
